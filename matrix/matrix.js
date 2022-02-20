@@ -9,7 +9,7 @@ CANVAS.height = height;
 
 let max_letters = 500;
 let falling = [];
-let font_size = 12;
+let font_size = 15;
 let max_columns = width / font_size;
 
 let frames = 0;
